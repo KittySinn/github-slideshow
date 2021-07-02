@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+My darling girl being normal is boring, a form of cowardice
 Use the left arrow to go back!
